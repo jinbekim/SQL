@@ -1,7 +1,7 @@
 # SQL
 SQL study with jinbekim, huchoi, joopark
 ## Subject
-![image](https://user-images.githubusercontent.com/59330110/188078965-e3b77b99-0108-42eb-82fc-22430f1e05d7.png)
+<img src="https://user-images.githubusercontent.com/59330110/188078965-e3b77b99-0108-42eb-82fc-22430f1e05d7.png" width=300>
 
 ### index
 * 1장 DBMS 아키텍처
