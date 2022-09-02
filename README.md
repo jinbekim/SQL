@@ -16,7 +16,8 @@ SQL study with jinbekim, huchoi, joopark
 * 10장 인덱스 사용
 
 ## Time
-* Tue, Sat, Evening
+* Tue, Sat
+* Evening
 
 ## Rule
 * Add issue which you want to study or want to know
