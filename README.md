@@ -20,5 +20,5 @@ SQL study with jinbekim, huchoi, joopark
 * Evening
 
 ## Rule
-* Add issue which you want to study or want to know
+* Add issue which you want to study or want to know or example query.
 * Make a example b4 study.
