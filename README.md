@@ -1,5 +1,6 @@
 # SQL
 SQL study with jinbekim, huchoi, joopark
+(2022.09.08 ~ 2022.10.07)
 ## Subject
 <img src="https://user-images.githubusercontent.com/59330110/188078965-e3b77b99-0108-42eb-82fc-22430f1e05d7.png" width=300>
 
